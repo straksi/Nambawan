@@ -18,3 +18,7 @@ npm install --global gulp-cli
 ```
 npm i
 ```
+Для запуска проекта пропишите в консоле 
+```
+gulp
+```
